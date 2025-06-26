@@ -37,3 +37,5 @@ The app takes the URL of a blog post and the name of the blog author as input. I
 Optional: Use `User-Agent` header if needed for sites that block scraping.
 
 Make sure the app stays within character limits and doesn't crash if the blog content can't be extracted.
+
+![](https://github.com/hbuddana/Connect_with_Insight/blob/main/Connect_with_Insight/1.png)
